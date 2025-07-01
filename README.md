@@ -15,8 +15,4 @@ Um episódio direto, motivador e cheio de dicas práticas para quem está se pre
 ## 🚀 Resultados
 Segue o Link para o podcast abaixo:
 
-[LINK PARA O PODCAST AQUI]()
-
-## 💭 Reflexão
-O projeto destacou a versatilidade das IAs Generativas na criação de conteúdo auditivo, abrindo novos caminhos para a produção de mídia digital.
-
+[LINK PARA O PODCAST AQUI](https://soundcloud.com/felipe-alboy/projeto-fundamentos-de-ia?si=1b26103705744f918bfe25cbf4a99732&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing)
