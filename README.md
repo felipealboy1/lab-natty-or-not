@@ -1,9 +1,9 @@
 # Podcast: Tudo começa com um passo: planejando o ciclo para a maratona 🎙️
 
 ## 📒 Descrição
-Neste episódio de estreia do Papo de Longão, o host Carlos recebe o treinador Moisés e o maratonista Felipe para uma conversa descontraída e motivadora sobre o início de um ciclo de treinamento rumo à maratona. Felipe está se preparando para sua segunda prova e tem um desafio ousado pela frente: correr abaixo de 3 horas. Moisés explica como montar uma estratégia eficiente, equilibrando treinos de corrida, fortalecimento e descanso. Já Felipe compartilha suas motivações, aprendizados e a rotina puxada de quem está buscando superar seus próprios limites.
-
-Se você está começando um ciclo ou pensando em encarar os 42km, esse papo vai te inspirar a dar o primeiro passo — e continuar correndo com propósito.
+No episódio de estreia do Papo de Longão, o host Carlos conversa com o maratonista Felipe, que está iniciando seu ciclo de treinamento para encarar sua segunda maratona — agora com um objetivo ousado: correr abaixo de 3 horas.
+Durante o papo, Felipe compartilha de forma honesta os desafios físicos, mentais e de rotina que envolvem um ciclo de alto rendimento: os treinos longos, a importância do fortalecimento, a alimentação estratégica e a preparação psicológica.
+Um episódio direto, motivador e cheio de dicas práticas para quem está se preparando para a primeira maratona ou buscando evoluir nos 42km.
 
 ## 🤖 Tecnologias Utilizadas
 - IA Generativa **[ChatGPT](https://chat.openai.com)**: solicitei ao ChatGPT uma ajuda para criar as falas/diálogos e interação entre os personagens;
